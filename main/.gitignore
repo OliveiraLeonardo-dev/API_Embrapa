@@ -1,0 +1,11 @@
+# Cache e arquivos temporários
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pasta onde salva PDFs
+dados/
+
+# Ambiente virtual
+.env
+venv/
